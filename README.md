@@ -17,7 +17,7 @@ Implementação de Bot para atendimento no WhatsApp
  - [WPPConnect 📞](https://github.com/wppconnect-team/wppconnect)
 
 
-## Authors
+## Autor
 
 - [@djwesleyborges](https://github.com/djwesleyborges)
 
